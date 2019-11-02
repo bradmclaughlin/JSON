@@ -1,11 +1,9 @@
 {
-  "posts": [
+  "alarm": [
     {
-      "id": 1,
-      "title": "hello"
+      "minorAlarm": 0,
+      "majorAlarm": 0,
+      "overrider": false
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
