@@ -1,3 +1,10 @@
 {
-"minor":true, "major":false, "override":false
+  "alarm": [
+    {
+      "minor":true,
+      "major":false,
+      "override":false
+    }
+  ]
 }
+ 
